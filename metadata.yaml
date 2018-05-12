@@ -1,0 +1,28 @@
+_repo: Pius-IX.-And-His-Time_29143
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dawson, Æneas MacDonell
+    alias: Dawson, Aeneas MacDonell
+    birthdate: 1810
+    deathdate: 1894
+    gutenberg_agent_id: '33719'
+    url: http://www.gutenberg.org/2009/agents/33719
+description: ''
+gutenberg_issued: '2009-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pius IX, Pope, 1792-1878'
+- !lcc 'BX'
+- !lcsh 'Papacy -- History'
+title: Pius IX. And His Time
+url: http://www.gutenberg.org/ebooks/29143
